@@ -1,7 +1,9 @@
 # This reo is on creating a comic using Stable Diffusion
 
-Uses-Animagine XL 3.0 model and Dreambooth
+## Uses-Animagine XL 3.0 model and Dreambooth
 
-enhance it, seeing if you can learn specific color palettes, keep character consistency, and keep the style in which objects are drawn
+## Also ,will Pick characters from 2 different color-scale anime comics
 
-goal here is to create a compelling comic story combining characters across different anime cartoons.
+## Will enhance it, seeing if I can learn specific color palettes, keep character consistency, and keep the style in which objects are drawn
+
+## Goal here is to create a compelling comic story combining characters across different anime cartoons.
