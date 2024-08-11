@@ -1,4 +1,4 @@
-# This reo is on creating a comic using Stable Diffusion
+# This repo is on creating a comic using Stable Diffusion
 
 ## Uses-Animagine XL 3.0 model and Dreambooth
 
