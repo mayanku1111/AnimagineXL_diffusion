@@ -8,6 +8,8 @@
 
 U can see the notebook here [Link](FineAnimeTuning.ipynb)
 
+# I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
+
 # Comic story 
 
 ## Cha Hae-in stumbling off a boat, visibly weakened from her island ordeal
