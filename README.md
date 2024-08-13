@@ -4,6 +4,7 @@
 
 ## Also ,will Pick characters from 2 different color-scale anime comics
 
-## Will enhance it, seeing if I can learn specific color palettes, keep character consistency, and keep the style in which objects are drawn
-
 ## Goal here is to create a compelling comic story combining characters across different anime cartoons.
+
+U can see the notebook here [Link](FineAnimeTuning.ipynb)
+
