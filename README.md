@@ -9,6 +9,7 @@
 U can see the notebook here [Link](FineAnimeTuning.ipynb)
 
 # I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
+# I have created pull request for that
 
 # Comic story 
 
