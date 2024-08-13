@@ -7,6 +7,7 @@
 ## Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
 U can see the notebook here [Link](FineAnimeTuning.ipynb)
+Also this [Link](Animazine_FineTune.ipynb)
 
 # I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
 # I have created pull request for that
