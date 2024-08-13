@@ -25,5 +25,7 @@ U can see the notebook here [Link](FineAnimeTuning.ipynb)
 ![35-e81d2bb016e6875b0eed848f560cb38ef2b056a6](https://github.com/user-attachments/assets/c86c2998-1d52-4147-ac9c-042570a9151d)
 ![67-5a9dddceb69d06226f103a3483e75895e768c992](https://github.com/user-attachments/assets/98b41a04-99c6-4519-ba8f-539e42bd1ae4)
 ![70-0bfa251bdc6bddbc0437f76f779ca5a513be4693](https://github.com/user-attachments/assets/1be2b3d6-e849-4264-ac87-4a7a6ea12ea9)
-
+![63-79dd4d8392d30886504f74363c460ae866feca4a (1)](https://github.com/user-attachments/assets/5567d43f-5aec-4d90-8ef0-443439263ac6)
+![55-12b21d590e928b0c369d3f1aaf39eb63ca160f3e](https://github.com/user-attachments/assets/0888e555-9556-4913-8fbe-e469c1c8d962)
+![37-da352567c866e8d15923895d813ae5cf8d49ecc6](https://github.com/user-attachments/assets/78f3bdcd-a6ec-49e9-a9d1-b9f0bee68785)
 
