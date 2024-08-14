@@ -34,7 +34,7 @@ Also this [Link](Animazine_FineTune.ipynb)
 ![67-5a9dddceb69d06226f103a3483e75895e768c992](https://github.com/user-attachments/assets/98b41a04-99c6-4519-ba8f-539e42bd1ae4)
 ![70-0bfa251bdc6bddbc0437f76f779ca5a513be4693](https://github.com/user-attachments/assets/1be2b3d6-e849-4264-ac87-4a7a6ea12ea9)
 # ![download (2)](https://github.com/user-attachments/assets/67bd0f73-a82a-47d9-b482-f7fac655cadc)
-![download (4)](https://github.com/user-attachments/assets/f4b36cec-6def-400e-8182-46611b9d021c)
-![download (3)](https://github.com/user-attachments/assets/01c88aef-72df-4bb0-aec1-61f765a2f92a)
+# ![download (4)](https://github.com/user-attachments/assets/f4b36cec-6def-400e-8182-46611b9d021c)
+# ![download (3)](https://github.com/user-attachments/assets/01c88aef-72df-4bb0-aec1-61f765a2f92a)
 
 
