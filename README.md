@@ -12,6 +12,8 @@
 # Training images here [Drive1](https://drive.google.com/drive/folders/12XsfxkycZnh4oETnqzQ3CX4ew3Fg-aDq?usp=sharing) and [Drive2](https://drive.google.com/drive/folders/1IWlVqYJ63ZHSF7ZrR7z0vSSzUTyHEeoQ?usp=sharing)
 
 # Notebook for saitama inference [Link](Animagine_inferenceSaitama.ipynb)
+# Notebook for ChaHaeIn inference [Link](Animagine_inferenceChaHaeIn.ipynb)
+
 
 ## I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
 ## I have created pull request for that
