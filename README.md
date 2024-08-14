@@ -2,9 +2,8 @@
 
 ## Uses-Animagine XL 3.0 model ,Dreambooth,lora
 
-## Also ,will Pick characters from 2 different color-scale anime comics
+## Also ,will Pick characters from 2 different color-scale anime comics,Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
-## Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
 # You can see the Fine tuning notebook here for saitama and cha-hae-in here [Link](FineAnimeTuning.ipynb)
 
