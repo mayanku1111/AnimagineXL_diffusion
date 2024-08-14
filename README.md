@@ -6,9 +6,9 @@
 
 ## Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
-U can see the Fine tuning notebook here [Link](FineAnimeTuning.ipynb)
+# You can see the Fine tuning notebook here [Link](FineAnimeTuning.ipynb)
 Also this [Link](Animazine_FineTune.ipynb)
-lora weights here [Drive](https://drive.google.com/file/d/1-EUJs--DbhC8nJgNg_6NDogNButvOp2Q/view?usp=sharing)
+# lora weights here [Drive](https://drive.google.com/file/d/1-EUJs--DbhC8nJgNg_6NDogNButvOp2Q/view?usp=sharing)
 
 # Notebook for saitama inference [Link](Animagine_inferenceSaitama.ipynb)
 
