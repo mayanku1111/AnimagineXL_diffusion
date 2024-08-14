@@ -29,12 +29,9 @@
 ### Saitama offering a hand to help Cha Hae-in up amidst the scattered robot parts
 ### Cha Hae-in looking at Saitama with a mix of gratitude and disbelief as they walk away from the scene
 
-![P1](https://github.com/user-attachments/assets/9336eec1-64d7-4696-907b-f332813d364d)
-![66-bf6c4b4ae2c1c18069d30e0f1ee93ae7f765ace3](https://github.com/user-attachments/assets/2c977acb-48ba-478e-ad52-3489839d64b6)
-![32-7831c5900d8d6c13546ac442d5b3307a1324bc19](https://github.com/user-attachments/assets/218e0b10-acb9-4f9f-8c75-a9ea30c15d26)
-![35-e81d2bb016e6875b0eed848f560cb38ef2b056a6](https://github.com/user-attachments/assets/c86c2998-1d52-4147-ac9c-042570a9151d)
-![67-5a9dddceb69d06226f103a3483e75895e768c992](https://github.com/user-attachments/assets/98b41a04-99c6-4519-ba8f-539e42bd1ae4)
-![70-0bfa251bdc6bddbc0437f76f779ca5a513be4693](https://github.com/user-attachments/assets/1be2b3d6-e849-4264-ac87-4a7a6ea12ea9)
+# ![download (13)](https://github.com/user-attachments/assets/07b363e2-5da0-4f3c-9f8a-0123d8ac3f4d)
+# ![download (14)](https://github.com/user-attachments/assets/ef361f01-fd26-4690-9bf5-b82da3dc1ba1)
+# 
 # ![download (2)](https://github.com/user-attachments/assets/67bd0f73-a82a-47d9-b482-f7fac655cadc)
 # ![download (4)](https://github.com/user-attachments/assets/f4b36cec-6def-400e-8182-46611b9d021c)
 # ![download (3)](https://github.com/user-attachments/assets/01c88aef-72df-4bb0-aec1-61f765a2f92a)
