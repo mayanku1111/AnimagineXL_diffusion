@@ -26,7 +26,7 @@
 # ![download (14)](https://github.com/user-attachments/assets/ef361f01-fd26-4690-9bf5-b82da3dc1ba1)
 ### Action shot of Cha_Hae_in dodging robot attack, her movements hindered by fatigue
 # ![download (15)](https://github.com/user-attachments/assets/12a7e228-7b48-4ad1-a4ca-59190b71bd15)
-### Cha_Hae_in's friend supporting her bringing medicine from a medical facility
+### Cha_Hae_in dog friends supporting her bringing medicine from a medical facility
 # ![download (16)](https://github.com/user-attachments/assets/6c060f1d-d2d9-49f1-a4d3-f5eed6ea012c)
 ### Cha_Hae_in attempting to leave the hospital despite her injuries, a look of urgency on her face
 # ![download (17)](https://github.com/user-attachments/assets/653b01e8-c71c-407b-a222-66c755dda1d6)
@@ -34,7 +34,7 @@
 # ![download (2)](https://github.com/user-attachments/assets/67bd0f73-a82a-47d9-b482-f7fac655cadc)
 ### Saitama offering a hand to help Cha_Hae_in up amidst the scattered robot parts
 # ![download (4)](https://github.com/user-attachments/assets/f4b36cec-6def-400e-8182-46611b9d021c)
-### Cha_Hae_in looking at Saitama with a mix of gratitude and disbelief as they walk away from the scene
+### Cha_Hae_in and Saitama looking at city with a mix of gratitude and disbelief as they walk away from the scene
 # ![download (3)](https://github.com/user-attachments/assets/01c88aef-72df-4bb0-aec1-61f765a2f92a)
 
 
