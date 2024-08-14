@@ -1,12 +1,12 @@
 # This repo is on creating a comic using Stable Diffusion
 
-## Uses-Animagine XL 3.0 model and Dreambooth
+## Uses-Animagine XL 3.0 model ,Dreambooth,lora
 
 ## Also ,will Pick characters from 2 different color-scale anime comics
 
 ## Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
-# You can see the Fine tuning notebook here for saitama and cha-hae-in [Link](FineAnimeTuning.ipynb)
+# You can see the Fine tuning notebook here for saitama and cha-hae-in here [Link](FineAnimeTuning.ipynb)
 
 # lora weights here [Drive](https://drive.google.com/file/d/1-EUJs--DbhC8nJgNg_6NDogNButvOp2Q/view?usp=sharing)
 # Training images here [Drive](https://drive.google.com/drive/folders/12XsfxkycZnh4oETnqzQ3CX4ew3Fg-aDq?usp=sharing)
