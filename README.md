@@ -16,7 +16,7 @@
 
 
 ## I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
-## I have created pull request for that
+## I have created pull request for that [Link](https://github.com/huggingface/diffusers/pull/9168)
 
 # Comic story 
 
