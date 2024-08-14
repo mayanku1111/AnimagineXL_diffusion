@@ -6,8 +6,11 @@
 
 ## Goal here is to create a compelling comic story combining characters across different anime cartoons.
 
-U can see the notebook here [Link](FineAnimeTuning.ipynb)
+U can see the Fine tuning notebook here [Link](FineAnimeTuning.ipynb)
 Also this [Link](Animazine_FineTune.ipynb)
+lora weights here [Drive](https://drive.google.com/file/d/1-EUJs--DbhC8nJgNg_6NDogNButvOp2Q/view?usp=sharing)
+
+# Notebook for saitama inference [Link](Animagine_inferenceSaitama.ipynb)
 
 # I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
 # I have created pull request for that
