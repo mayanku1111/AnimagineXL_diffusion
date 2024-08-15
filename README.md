@@ -14,8 +14,8 @@
 # Notebook for ChaHaeIn inference [Link](Animagine_inferenceChaHaeIn.ipynb)
 
 ```
-## I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
-## I have created pull request for that [Link](https://github.com/huggingface/diffusers/pull/9168)
+I fixed keyword argument 'use_dora' in loraconfig.init() for fine tuning of sdxl models
+I have created pull request for that [Link](https://github.com/huggingface/diffusers/pull/9168)
 ```
 # Comic story 
 
