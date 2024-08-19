@@ -7,8 +7,6 @@
 
 # You can see the Fine tuning notebook here for saitama and cha-hae-in here [Link](FineAnimeTuning.ipynb)
 
-# lora weights here [Drive](https://drive.google.com/file/d/1-EUJs--DbhC8nJgNg_6NDogNButvOp2Q/view?usp=sharing)
-
 # Notebook for saitama inference [Link](Animagine_inferenceSaitama.ipynb)
 # Notebook for ChaHaeIn inference [Link](Animagine_inferenceChaHaeIn.ipynb)
 
